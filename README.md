@@ -16,6 +16,4 @@ The lab focuses on core OS concepts through hands-on implementation in C and Lin
 8. Banker's Algorithm (C program)  
 9. Shell scripting and command automation  
 10. Shell script using `if-else` statements  
-11. Shell script using loop structures  
-12. File read/write operations in shell script 
 
